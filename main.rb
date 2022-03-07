@@ -5,3 +5,4 @@ renderer = Mittsu::OpenGLRenderer.new width: 800, height: 600, title: 'RubyCamp 
 renderer.window.run do
 renderer.render(scene, camera)
 end
+
